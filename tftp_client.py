@@ -167,4 +167,4 @@ else:
 sys.exit(0)
 
 #실행 명령어
-#python3 tftp_client.py <host> <operation> <filename>
+#python tftp_client.py <host> <operation> <filename>
